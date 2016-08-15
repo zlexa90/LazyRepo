@@ -11,10 +11,12 @@ package helloworld;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-	System.out.println("Hello, Universe!");
-	System.out.println("Hello, All!");
-	System.out.println("Hello, Buddies!");
-	System.out.println("Glad to see you, World!");
+
+        System.out.println("Hello, World!;");
+	System.out.println("Hello, Universe!;");
+	System.out.println("Hello, All!;");
+	System.out.println("Hello, Buddies!;");
+	System.out.println("Glad to see you, World!;");
+
     }    
 }
